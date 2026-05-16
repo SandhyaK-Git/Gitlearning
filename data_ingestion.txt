@@ -5,3 +5,4 @@ feature_new working on this file
 =======
 i am updating files
 >>>>>>> feature_testfile_1
+good version of bug fix
