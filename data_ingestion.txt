@@ -1,8 +1,5 @@
 I am ingesting the data in this file.
 new data ingested
-<<<<<<< HEAD
 feature_new working on this file
-=======
 i am updating files
->>>>>>> feature_testfile_1
- i am bugfix2 here
+i am bugfix2 here
